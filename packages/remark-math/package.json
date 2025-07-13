@@ -8,7 +8,7 @@
   "dependencies": {
     "@types/mdast": "^4.0.0",
     "mdast-util-math": "^3.0.0",
-    "micromark-extension-math": "github:dongguaguaguagua/micromark-extension-math",
+    "micromark-extension-math": "git+https://github.com/dongguaguaguagua/micromark-extension-math.git",
     "unified": "^11.0.0"
   },
   "description": "remark plugin to parse and stringify math",
